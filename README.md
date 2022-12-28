@@ -21,7 +21,18 @@ Also this ruler helps you, when you want to create a PCB, because you can see di
 * Bottle opener
 * Licensed und Creative Commons BY 4.0
 
+### Smaller Differences
+
+* Keychain size - 65x23.5mm - with drill holes in the center
+* Added 1/16 marks to the inch ruler
+* No resistor table or circuit reminders
+* No bottle opener
+
 
 ## Images:
 ![Showcase1](https://raw.githubusercontent.com/jbtronics/PCBruler/master/export/pics/showcase1.png)
 ![Showcase2](https://raw.githubusercontent.com/jbtronics/PCBruler/master/export/pics/showcase2.png)
+
+### Smaller
+![README-PCBRulerSmaller-Front.png](https://raw.githubusercontent.com/ihartwig/PCBruler/master/README-PCBRulerSmaller-Front.png)
+![README-PCBRulerSmaller-Back.png](https://raw.githubusercontent.com/ihartwig/PCBruler/master/README-PCBRulerSmaller-Back.png)

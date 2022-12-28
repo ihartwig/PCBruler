@@ -21,6 +21,12 @@ _autosave-*
 *.xml
 *.csv
 
+# Release and Backup files
+*.zip
+
+# MacOS
+.DS_Store
+
 # Ignore Files in help/
 help/
 *.idlk
